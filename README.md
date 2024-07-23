@@ -23,3 +23,12 @@ To view and interact with the project locally, follow these steps:
    ```bash
    git clone https://github.com/oftheus/Skyline-GTR-Website.git
    ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd nissan-skyline-gtr-website
+   ```
+3. **Open the index.html file in your preferred web browser**.
+
+##Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions are welcome!
