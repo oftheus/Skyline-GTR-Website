@@ -29,6 +29,6 @@ To view and interact with the project locally, follow these steps:
    ```
 3. **Open the index.html file in your preferred web browser**.
 
-##Contributing
+## Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions are welcome!
